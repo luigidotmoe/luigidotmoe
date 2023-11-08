@@ -52,3 +52,5 @@
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)](https://graphql.org/)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)](https://svelte.dev/)
 [![ThreeJS](https://img.shields.io/badge/ThreeJS-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
+
+# [🐱 Shanks <3](https://luigi.moe/shanks/)
