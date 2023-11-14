@@ -29,7 +29,7 @@
 
 ### Misc.
 
-#### IDE
+#### Code Editor
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 #### Design
@@ -64,4 +64,4 @@
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)](https://svelte.dev/)
 [![ThreeJS](https://img.shields.io/badge/ThreeJS-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
 
-# [🐱 Shanks <3](https://luigi.moe/shanks/)
+# [🐱 Shanks <3](https://shanks.luigi.moe/)
